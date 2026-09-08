@@ -6,6 +6,13 @@ export const metadata: Metadata = {
   alternates: { canonical: '/' },
   title: 'Ali Waris | Test Automation Engineer',
   description: 'API integration and performance testing projects by Ali Waris. Cucumber, Java, JMeter and Grafana.',
+  openGraph: {
+    title: 'Ali Waris | Test Automation Engineer',
+    description: 'API integration and performance testing projects with Cucumber, Java, JMeter and Grafana.',
+    url: 'https://aliwaris-labs.github.io/',
+    siteName: 'Ali Waris Portfolio',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({
