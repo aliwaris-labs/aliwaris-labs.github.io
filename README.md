@@ -1,9 +1,9 @@
 # Ali Waris — Test Automation Engineer
 
-Portfolio source prepared for https://aliwaris1.github.io/.
+Portfolio source prepared for https://aliwaris-labs.github.io/.
 
-The site showcases [OrderFlow](https://github.com/Aliwaris1/orderflow-api-quality)
-and [LedgerGuard](https://github.com/Aliwaris1/ledgerguard-api-quality), including
+The site showcases [OrderFlow](https://github.com/aliwaris-labs/orderflow-api-quality)
+and [LedgerGuard](https://github.com/aliwaris-labs/ledgerguard-api-quality), including
 API integration tests and performance testing with Cucumber, JMeter and Grafana.
 
 ## Local development
@@ -20,7 +20,7 @@ Edit `app/page.tsx` for content, `app/globals.css` for styling and
 
 ## GitHub Pages
 
-The repository must be public and named `aliwaris1.github.io` under `Aliwaris1`.
+The repository must be public and named `aliwaris-labs.github.io` under `aliwaris-labs`.
 In **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
 Push to `main` to build and publish, or run **Publish portfolio** manually.
 
